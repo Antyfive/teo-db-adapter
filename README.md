@@ -1,2 +1,2 @@
 # teo-db-orm
-Teo.JS DB ORM implementation.
+[Teo.JS](https://github.com/Antyfive/teo.js) DB ORM implementation.
