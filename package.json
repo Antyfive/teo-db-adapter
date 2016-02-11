@@ -1,26 +1,26 @@
 {
-  "name": "teo-db-orm",
+  "name": "teo-db-adapter",
   "version": "1.0.0",
-  "description": "Teo.JS DB ORM implementation",
+  "description": "Teo.JS DB Adapter implementation",
   "main": "index.js",
   "scripts": {
     "test": "NODE_ENV=test ./node_modules/.bin/mocha --require ./test/common.js --reporter spec --ui bdd --recursive --colors --timeout 5000 --slow 300"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Antyfive/teo-db-orm.git"
+    "url": "git+https://github.com/Antyfive/teo-db-adapter.git"
   },
   "keywords": [
     "teo.js",
     "db",
-    "orm"
+    "adapter"
   ],
   "author": "Andrew Teologov <teologov.and@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Antyfive/teo-db-orm/issues"
+    "url": "https://github.com/Antyfive/teo-db-adapter/issues"
   },
-  "homepage": "https://github.com/Antyfive/teo-db-orm#readme",
+  "homepage": "https://github.com/Antyfive/teo-db-adapter#readme",
   "dependencies": {
     "teo-base": "^1.0.1"
   },

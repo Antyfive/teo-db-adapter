@@ -6,6 +6,6 @@
 
 "use strict";
 
-const ORM = require("./lib/teo.db.orm");
+const Adapter = require("./lib/teo.db.adapter");
 
-module.exports = ORM;
+module.exports = Adapter;
